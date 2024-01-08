@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my personal web app portfolio!
+- 🌱 I’m currently learning React to help me develop my personal website.
+- 🤔 I’m looking for help with landing an entry level Software Engineering role.
+- 📫 How to reach me: Feel free to connect with me on LinkedIn! - https://www.linkedin.com/in/kevin-andrade7/
 
 <!--
 **kandrade9/kandrade9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
